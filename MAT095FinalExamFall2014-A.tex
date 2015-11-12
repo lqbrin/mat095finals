@@ -1,0 +1,109 @@
+\documentclass[12pt]{report}
+
+\usepackage{graphicx, probsoln}
+
+\pagestyle{myheadings}
+\newsavebox{\mybox}
+\newcounter{probnum}
+\renewenvironment{solution}{\par\noindent\begin{lrbox}{\mybox}}{\end{lrbox}\fbox{\usebox{\mybox}}}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\oddsidemargin}{0pt}
+\setlength{\evensidemargin}{0pt}
+\setlength{\voffset}{-.75in}
+\setlength{\textheight}{9in}
+
+%%%%%%%%%%%%%%%%%%%%%%
+% MAKE CHANGES BELOW %
+%%%%%%%%%%%%%%%%%%%%%%
+\markright{MAT 095 Fall 2014\hfill Final Exam version A\hfill Page }
+\newcommand{\pts}{[5 points] }
+\newcommand{\spc}{\vfill }
+% Pick a new seed for each new exam. Must be a positive integer!
+% Seeds used:
+%   Fall 2014: 100, 200, 300
+\PSNrandseed{100}
+
+\begin{document}
+
+\noindent {Name and section:\enspace\hrulefill}
+
+\vspace{.25in}
+
+\noindent {Instructor's name:\enspace\hrulefill}
+
+\vspace{.25in}
+
+\begin{center}\fbox{\fbox{\parbox{5.5in}{
+  \begin{itemize}
+    \item \textbf{Please do not open exam until instructed to begin.}
+    \item This exam is to be completed in the allotted time period of $2$ hours.
+    \item There are $20$ problems which appear on the fronts and backs of the pages of this exam. 
+    \item You may earn a total of $100$ points. 
+    \item Read each question carefully.
+    \item Credit may not be given without sufficient supporting work. 
+    \item Simplify answers when possible. 
+    \item The use of cell phones, books, or notes are not permitted while taking this exam. 
+    \item Approved calculators are allowed.
+  \end{itemize} }}}
+\end{center}
+
+\loadrandomproblems{1}{Bank095Final01}
+\loadrandomproblems{1}{Bank095Final02}
+\loadrandomproblems{1}{Bank095Final03}
+\loadrandomproblems{1}{Bank095Final04}
+\loadrandomproblems{1}{Bank095Final05}
+\loadrandomproblems{1}{Bank095Final06}
+\loadrandomproblems{1}{Bank095Final07}
+\loadrandomproblems{1}{Bank095Final08}
+\loadrandomproblems{1}{Bank095Final09}
+\loadrandomproblems{1}{Bank095Final10}
+\loadrandomproblems{1}{Bank095Final11}
+\loadrandomproblems{1}{Bank095Final12}
+\loadrandomproblems{1}{Bank095Final13}
+\loadrandomproblems{1}{Bank095Final14}
+\loadrandomproblems{1}{Bank095Final15}
+\loadrandomproblems{1}{Bank095Final16}
+\loadrandomproblems{1}{Bank095Final17}
+\loadrandomproblems{1}{Bank095Final18}
+\loadrandomproblems{1}{Bank095Final19}
+\loadrandomproblems{1}{Bank095Final20}
+
+\newpage
+\begin{enumerate}
+  \foreachproblem{
+    \stepcounter{probnum}
+    \ifnum \value{probnum}=4
+	  \item\pts\thisproblem\spc\newpage 	% go to next page after problem 4
+    \else \ifnum \value{probnum}=7
+	  \item\pts\thisproblem\spc\newpage 	% go to next page after problem 7
+    \else \ifnum \value{probnum}=8
+	  \item\pts\thisproblem 		% leave no extra space after problem 8
+    \else \ifnum \value{probnum}=9
+	  \item\pts\thisproblem\newpage 	% go to next page after problem 9, instead of leaving vertical space
+    \else \ifnum \value{probnum}=10
+	  \item\pts\thisproblem		 	% leave no extra space after problem 10
+    \else \ifnum \value{probnum}=11
+	  \item\pts\thisproblem\newpage		% go to next page after problem 11, instead of leaving vertical space
+    \else \ifnum \value{probnum}=12
+	  \item\pts\thisproblem			% leave no extra space after problem 12
+    \else \ifnum \value{probnum}=14
+	  \item\pts\thisproblem\spc\newpage	% go to next page after problem 14
+    \else \ifnum \value{probnum}=16
+	  \item\pts\thisproblem			% leave no extra space after problem 16
+    \else \ifnum \value{probnum}=19
+	  \item\pts\thisproblem\spc\newpage	% go to next page after problem 19
+    \else
+	  \item\pts\thisproblem\spc 		% default
+    \fi\fi\fi\fi\fi\fi\fi\fi\fi\fi
+  }
+\end{enumerate}
+
+\newpage
+\showanswers
+\begin{center}\textbf{\Large{Solutions}}\end{center}
+\begin{enumerate}
+  \foreachsolution{\item\thisproblem}
+\end{enumerate}
+
+\end{document}
