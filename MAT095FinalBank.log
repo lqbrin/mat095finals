@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.16)  11 NOV 2015 09:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  25 NOV 2015 12:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **MAT095FinalBank.tex
 (./MAT095FinalBank.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 4 languages loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -24,31 +24,31 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
@@ -56,30 +56,30 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(/usr/share/texlive/texmf-dist/tex/latex/probsoln/probsoln.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/probsoln/probsoln.sty
 Package: probsoln 2012/08/23 v3.04 (NLCT)
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks15
 \ex@=\dimen105
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen106
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count89
@@ -120,19 +120,19 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/etex-pkg/etex.sty
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \et@xins=\count101
 )
 \etb@tempcnta=\count102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2013/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 \XKV@toks=\toks20
 \XKV@tempa@toks=\toks21
 \XKV@depth=\count103
@@ -173,7 +173,7 @@ LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count117
 \scratchdimen=\dimen114
@@ -186,15 +186,15 @@ LaTeX Font Info:    ... okay on input line 21.
 \MPnumerator=\count121
 \makeMPintoPDFobject=\count122
 \everyMPtoPDFconversion=\toks23
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
@@ -203,22 +203,22 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -230,7 +230,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -248,207 +248,203 @@ e
 (./Bank095Final17.5.tex) (./Bank095Final18.tex) (./Bank095Final18bad.tex)
 (./Bank095Final18.5.tex) (./Bank095Final19.tex) (./Bank095Final19bad.tex)
 (./Bank095Final19.5.tex) (./Bank095Final20.tex) (./Bank095Final20.5.tex)
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+[1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2] [3] [4] [5] [6]
-[7] [8] [9] <fig095-07-5-a-answer.pdf, id=40, 361.35pt x 19.07124pt>
+]
+[2] [3] [4] [5] [6] [7] [8] [9]
+<fig095-07-5-a-answer.pdf, id=40, 361.35pt x 19.07124pt>
 File: fig095-07-5-a-answer.pdf Graphic file (type pdf)
 
 <use fig095-07-5-a-answer.pdf>
 Package pdftex.def Info: fig095-07-5-a-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 361.34912pt x 19.07118pt.
-
-<fig095-07-5-b-answer.pdf, id=41, 361.35pt x 18.0675pt>
+ [10 <./fig095-07-5-a-answer.pdf>]
+<fig095-07-5-b-answer.pdf, id=47, 388.63284pt x 46.86508pt>
 File: fig095-07-5-b-answer.pdf Graphic file (type pdf)
 
 <use fig095-07-5-b-answer.pdf>
 Package pdftex.def Info: fig095-07-5-b-answer.pdf used on input line 68.
-(pdftex.def)             Requested size: 361.34912pt x 18.06744pt.
+(pdftex.def)             Requested size: 388.63188pt x 46.86496pt.
 
-<fig095-07-5-c-answer.pdf, id=42, 361.35pt x 18.0675pt>
+<fig095-07-5-c-answer.pdf, id=48, 317.66338pt x 56.76909pt>
 File: fig095-07-5-c-answer.pdf Graphic file (type pdf)
 
 <use fig095-07-5-c-answer.pdf>
 Package pdftex.def Info: fig095-07-5-c-answer.pdf used on input line 68.
-(pdftex.def)             Requested size: 361.34912pt x 18.06744pt.
- [10 <./fig095-07-5-a-answer.pdf> <./fig095-07-5-b-answer.pdf> <./fig095-07-5-c
--answer.pdf>]
-<fig095-07-5-d-answer.pdf, id=55, 361.35pt x 19.07124pt>
+(pdftex.def)             Requested size: 317.6626pt x 56.76894pt.
+
+<fig095-07-5-d-answer.pdf, id=49, 361.35pt x 19.07124pt>
 File: fig095-07-5-d-answer.pdf Graphic file (type pdf)
 
 <use fig095-07-5-d-answer.pdf>
 Package pdftex.def Info: fig095-07-5-d-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 361.34912pt x 19.07118pt.
-
-<fig095-08-a-answer.pdf, id=56, 130.4875pt x 128.48pt>
+ [11 <./fig095-07-5-b-answer.pdf> <./fig095-07-5-c-answer.pdf> <./fig095-07-5-d
+-answer.pdf>]
+<fig095-08-a-answer.pdf, id=58, 130.4875pt x 128.48pt>
 File: fig095-08-a-answer.pdf Graphic file (type pdf)
 
 <use fig095-08-a-answer.pdf>
 Package pdftex.def Info: fig095-08-a-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 130.48717pt x 128.47968pt.
 
-<fig095-08-b-answer.pdf, id=57, 130.4875pt x 128.48pt>
+<fig095-08-b-answer.pdf, id=59, 130.4875pt x 128.48pt>
 File: fig095-08-b-answer.pdf Graphic file (type pdf)
 
 <use fig095-08-b-answer.pdf>
 Package pdftex.def Info: fig095-08-b-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 130.48717pt x 128.47968pt.
- [11 <./fig095-07-5-d-answer.pdf> <./fig095-08-a-answer.pdf>] <fig095-08-c-answ
-er.pdf, id=73, 130.4875pt x 128.48pt>
+
+<fig095-08-c-answer.pdf, id=60, 130.4875pt x 128.48pt>
 File: fig095-08-c-answer.pdf Graphic file (type pdf)
 
 <use fig095-08-c-answer.pdf>
 Package pdftex.def Info: fig095-08-c-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 130.48717pt x 128.47968pt.
-
-<fig095-08-d-answer.pdf, id=74, 130.4875pt x 128.48pt>
+ [12 <./fig095-08-a-answer.pdf> <./fig095-08-b-answer.pdf>] <fig095-08-d-answer
+.pdf, id=82, 130.4875pt x 128.48pt>
 File: fig095-08-d-answer.pdf Graphic file (type pdf)
 
 <use fig095-08-d-answer.pdf>
 Package pdftex.def Info: fig095-08-d-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 130.48717pt x 128.47968pt.
- [12 <./fig095-08-b-answer.pdf> <./fig095-08-c-answer.pdf> <./fig095-08-d-answe
-r.pdf>] [13] [14]
-<fig095-10-a-answer.pdf, id=112, 130.4875pt x 128.48pt>
+ [13 <./fig095-08-c-answer.pdf> <./fig095-08-d-answer.pdf>] [14] [15] <fig095-1
+0-a-answer.pdf, id=111, 130.4875pt x 128.48pt>
 File: fig095-10-a-answer.pdf Graphic file (type pdf)
 
 <use fig095-10-a-answer.pdf>
 Package pdftex.def Info: fig095-10-a-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 130.48717pt x 128.47968pt.
 
-<fig095-10-b-answer.pdf, id=113, 130.4875pt x 128.48pt>
+<fig095-10-b-answer.pdf, id=112, 130.4875pt x 128.48pt>
 File: fig095-10-b-answer.pdf Graphic file (type pdf)
 
 <use fig095-10-b-answer.pdf>
 Package pdftex.def Info: fig095-10-b-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 130.48717pt x 128.47968pt.
- [15 <./fig095-10-a-answer.pdf>]
-<fig095-10-c-answer.pdf, id=124, 130.4875pt x 128.48pt>
+ [16 <./fig095-10-a-answer.pdf> <./fig095-10-b-answer.pdf>] <fig095-10-c-answer
+.pdf, id=128, 130.4875pt x 128.48pt>
 File: fig095-10-c-answer.pdf Graphic file (type pdf)
 
 <use fig095-10-c-answer.pdf>
 Package pdftex.def Info: fig095-10-c-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 130.48717pt x 128.47968pt.
 
-<fig095-10-d-answer.pdf, id=125, 130.4875pt x 128.48pt>
+<fig095-10-d-answer.pdf, id=129, 130.4875pt x 128.48pt>
 File: fig095-10-d-answer.pdf Graphic file (type pdf)
 
 <use fig095-10-d-answer.pdf>
 Package pdftex.def Info: fig095-10-d-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 130.48717pt x 128.47968pt.
- [16 <./fig095-10-b-answer.pdf> <./fig095-10-c-answer.pdf>] <fig095-10-5-a-answ
-er.pdf, id=141, 128.48pt x 121.45375pt>
+
+<fig095-10-5-a-answer.pdf, id=130, 128.48pt x 121.45375pt>
 File: fig095-10-5-a-answer.pdf Graphic file (type pdf)
 
 <use fig095-10-5-a-answer.pdf>
 Package pdftex.def Info: fig095-10-5-a-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 128.47968pt x 121.45343pt.
-
-<fig095-10-5-b-answer.pdf, id=142, 128.48pt x 121.45375pt>
+ [17 <./fig095-10-c-answer.pdf> <./fig095-10-d-answer.pdf>] <fig095-10-5-b-answ
+er.pdf, id=148, 128.48pt x 121.45375pt>
 File: fig095-10-5-b-answer.pdf Graphic file (type pdf)
 
 <use fig095-10-5-b-answer.pdf>
 Package pdftex.def Info: fig095-10-5-b-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 128.47968pt x 121.45343pt.
- [17 <./fig095-10-d-answer.pdf> <./fig095-10-5-a-answer.pdf>] <fig095-10-5-c-an
-swer.pdf, id=156, 128.48pt x 121.45375pt>
+
+<fig095-10-5-c-answer.pdf, id=149, 128.48pt x 121.45375pt>
 File: fig095-10-5-c-answer.pdf Graphic file (type pdf)
 
 <use fig095-10-5-c-answer.pdf>
 Package pdftex.def Info: fig095-10-5-c-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 128.47968pt x 121.45343pt.
-
-<fig095-10-5-d-answer.pdf, id=157, 128.48pt x 121.45375pt>
+ [18 <./fig095-10-5-a-answer.pdf> <./fig095-10-5-b-answer.pdf>] <fig095-10-5-d-
+answer.pdf, id=159, 128.48pt x 121.45375pt>
 File: fig095-10-5-d-answer.pdf Graphic file (type pdf)
 
 <use fig095-10-5-d-answer.pdf>
 Package pdftex.def Info: fig095-10-5-d-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 128.47968pt x 121.45343pt.
- [18 <./fig095-10-5-b-answer.pdf> <./fig095-10-5-c-answer.pdf>] [19 <./fig095-1
-0-5-d-answer.pdf>] [20] [21]
-<fig095-12-a-answer.pdf, id=180, 128.48pt x 117.43875pt>
+ [19 <./fig095-10-5-c-answer.pdf> <./fig095-10-5-d-answer.pdf>] [20] [21]
+<fig095-12-a-answer.pdf, id=176, 128.48pt x 117.43875pt>
 File: fig095-12-a-answer.pdf Graphic file (type pdf)
 
 <use fig095-12-a-answer.pdf>
 Package pdftex.def Info: fig095-12-a-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 128.47968pt x 117.43845pt.
 
-<fig095-12-b-answer.pdf, id=181, 128.48pt x 117.43875pt>
+<fig095-12-b-answer.pdf, id=177, 128.48pt x 117.43875pt>
 File: fig095-12-b-answer.pdf Graphic file (type pdf)
 
 <use fig095-12-b-answer.pdf>
 Package pdftex.def Info: fig095-12-b-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 128.47968pt x 117.43845pt.
-
-<fig095-12-c-answer.pdf, id=182, 128.48pt x 118.4425pt>
+ [22 <./fig095-12-a-answer.pdf> <./fig095-12-b-answer.pdf>] <fig095-12-c-answer
+.pdf, id=191, 128.48pt x 118.4425pt>
 File: fig095-12-c-answer.pdf Graphic file (type pdf)
 
 <use fig095-12-c-answer.pdf>
 Package pdftex.def Info: fig095-12-c-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 128.47968pt x 118.4422pt.
- [22 <./fig095-12-a-answer.pdf> <./fig095-12-b-answer.pdf>] <fig095-12-d-answer
-.pdf, id=197, 128.48pt x 118.4425pt>
+
+<fig095-12-d-answer.pdf, id=192, 128.48pt x 118.4425pt>
 File: fig095-12-d-answer.pdf Graphic file (type pdf)
 
 <use fig095-12-d-answer.pdf>
 Package pdftex.def Info: fig095-12-d-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 128.47968pt x 118.4422pt.
 
-<fig095-12-5-a-answer.pdf, id=198, 128.48pt x 121.45375pt>
+<fig095-12-5-a-answer.pdf, id=193, 128.48pt x 121.45375pt>
 File: fig095-12-5-a-answer.pdf Graphic file (type pdf)
 
 <use fig095-12-5-a-answer.pdf>
 Package pdftex.def Info: fig095-12-5-a-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 128.47968pt x 121.45343pt.
- [23 <./fig095-12-c-answer.pdf> <./fig095-12-d-answer.pdf> <./fig095-12-5-a-ans
-wer.pdf>]
-<fig095-12-5-b-answer.pdf, id=211, 128.48pt x 121.45375pt>
+ [23 <./fig095-12-c-answer.pdf> <./fig095-12-d-answer.pdf>] <fig095-12-5-b-answ
+er.pdf, id=204, 128.48pt x 121.45375pt>
 File: fig095-12-5-b-answer.pdf Graphic file (type pdf)
 
 <use fig095-12-5-b-answer.pdf>
 Package pdftex.def Info: fig095-12-5-b-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 128.47968pt x 121.45343pt.
 
-<fig095-12-5-c-answer.pdf, id=212, 128.48pt x 121.45375pt>
+<fig095-12-5-c-answer.pdf, id=205, 128.48pt x 121.45375pt>
 File: fig095-12-5-c-answer.pdf Graphic file (type pdf)
 
 <use fig095-12-5-c-answer.pdf>
 Package pdftex.def Info: fig095-12-5-c-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 128.47968pt x 121.45343pt.
-
-<fig095-12-5-d-answer.pdf, id=213, 128.48pt x 121.45375pt>
+ [24 <./fig095-12-5-a-answer.pdf> <./fig095-12-5-b-answer.pdf>] <fig095-12-5-d-
+answer.pdf, id=215, 128.48pt x 121.45375pt>
 File: fig095-12-5-d-answer.pdf Graphic file (type pdf)
 
 <use fig095-12-5-d-answer.pdf>
 Package pdftex.def Info: fig095-12-5-d-answer.pdf used on input line 68.
 (pdftex.def)             Requested size: 128.47968pt x 121.45343pt.
- [24 <./fig095-12-5-b-answer.pdf> <./fig095-12-5-c-answer.pdf>] [25 <./fig095-1
-2-5-d-answer.pdf>] [26] [27]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no — in font cmr12!
- [28] [29] [30]
-[31] [32] [33] [34] [35] [36] (./MAT095FinalBank.aux) ) 
+ [25 <./fig095-12-5-c-answer.pdf> <./fig095-12-5-d-answer.pdf>] [26] [27] [28] 
+[29] [30] [31] [32] [33] [34] [35] [36] [37]
+(./MAT095FinalBank.aux) ) 
 Here is how much of TeX's memory you used:
- 3500 strings out of 494985
- 51771 string characters out of 6180356
- 167600 words of memory out of 5000000
- 6538 multiletter control sequences out of 15000+600000
+ 3500 strings out of 493315
+ 52139 string characters out of 6137904
+ 172666 words of memory out of 5000000
+ 6773 multiletter control sequences out of 15000+600000
  7709 words of font info for 28 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
+ 957 hyphenation exceptions out of 8191
  38i,11n,35p,801b,306s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on MAT095FinalBank.pdf (36 pages, 408245 bytes).
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmex10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsl12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb>
+Output written on MAT095FinalBank.pdf (37 pages, 405680 bytes).
 PDF statistics:
- 294 PDF objects out of 1000 (max. 8388607)
- 176 compressed objects within 2 object streams
+ 296 PDF objects out of 1000 (max. 8388607)
+ 179 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
