@@ -16,7 +16,7 @@
 %%%%%%%%%%%%%%%%%%%%%%
 % MAKE CHANGES BELOW %
 %%%%%%%%%%%%%%%%%%%%%%
-\markright{MAT 095 Fall 2015\hfill Final Exam version C\hfill Page }
+\markright{MAT 095 Fall 2015\hfill Final Exam version A\hfill Page }
 \newcommand{\pts}{[5 points] }
 \newcommand{\spc}{\vfill }
 % Pick a new seed for each new exam. Must be a positive integer!
@@ -24,7 +24,7 @@
 %   Fall 2014: 100, 200, 300
 % Spring 2015: 50,  150, 250
 %   Fall 2015: 75, 175, 275
-\PSNrandseed{275}
+\PSNrandseed{75}
 
 \begin{document}
 
@@ -52,31 +52,31 @@
 
 \loadrandomproblems{1}{Bank095Final01.5}
 \loadrandomproblems{1}{Bank095Final02.5}
-\loadrandomproblems{1}{Bank095Final03}
+\loadrandomproblems{1}{Bank095Final03.5}
 \loadrandomproblems{1}{Bank095Final04.5}
-\loadrandomproblems{1}{Bank095Final05}
-\loadrandomproblems{1}{Bank095Final06}
+\loadrandomproblems{1}{Bank095Final05.5}
+\loadrandomproblems{1}{Bank095Final06.5}
 \loadrandomproblems{1}{Bank095Final07.5}
-\loadrandomproblems{1}{Bank095Final08}
-\loadrandomproblems{1}{Bank095Final09}
-\loadrandomproblems{1}{Bank095Final10}
+\loadrandomproblems{1}{Bank095Final08.5}
+\loadrandomproblems{1}{Bank095Final09.5}
+\loadrandomproblems{1}{Bank095Final10.5}
 \loadrandomproblems{1}{Bank095Final11.5}
 \loadrandomproblems{1}{Bank095Final12.5}
 \loadrandomproblems{1}{Bank095Final13.5}
 \loadrandomproblems{1}{Bank095Final14.5}
 \loadrandomproblems{1}{Bank095Final15.5}
-\loadrandomproblems{1}{Bank095Final16}
+\loadrandomproblems{1}{Bank095Final16.5}
 \loadrandomproblems{1}{Bank095Final17.5}
-\loadrandomproblems{1}{Bank095Final18}
-\loadrandomproblems{1}{Bank095Final19}
-\loadrandomproblems{1}{Bank095Final20}
+\loadrandomproblems{1}{Bank095Final18.5}
+\loadrandomproblems{1}{Bank095Final19.5}
+\loadrandomproblems{1}{Bank095Final20.5}
 
 \newpage
 \begin{enumerate}
   \foreachproblem{
     \stepcounter{probnum}
     \ifnum \value{probnum}=4
-	  \item {[4 points] }\thisproblem\spc\newpage 	% go to next page after problem 4, make #4 worth 4 points
+	  \item\pts\thisproblem\spc\newpage 	% go to next page after problem 4
     \else \ifnum \value{probnum}=7
 	  \item\pts\thisproblem\spc\newpage 	% go to next page after problem 7
     \else \ifnum \value{probnum}=8
@@ -86,15 +86,15 @@
     \else \ifnum \value{probnum}=10
 	  \item\pts\thisproblem		 	% leave no extra space after problem 10
     \else \ifnum \value{probnum}=11
-	  \item {[6 points] }\thisproblem\newpage		% go to next page after problem 11, instead of leaving vertical space, make #11 worth 6 points
+	  \item\pts\thisproblem\newpage		% go to next page after problem 11, instead of leaving vertical space
     \else \ifnum \value{probnum}=12
 	  \item\pts\thisproblem			% leave no extra space after problem 12
     \else \ifnum \value{probnum}=14
 	  \item\pts\thisproblem\spc\newpage	% go to next page after problem 14
     \else \ifnum \value{probnum}=16
 	  \item\pts\thisproblem			% leave no extra space after problem 16
-    \else \ifnum \value{probnum}=17
-	  \item\pts\thisproblem\spc\newpage	% go to next page after problem 17
+    \else \ifnum \value{probnum}=19
+	  \item\pts\thisproblem\spc\newpage	% go to next page after problem 19
     \else
 	  \item\pts\thisproblem\spc 		% default
     \fi\fi\fi\fi\fi\fi\fi\fi\fi\fi
